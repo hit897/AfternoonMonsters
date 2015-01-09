@@ -10,11 +10,6 @@ public class MarshmallowMonster
 	private boolean hasBellyButton;
 	private String name;
 	
-	public MarshmallowMonster()
-	{
-		
-	}
-		
 	public MarshmallowMonster(String name, int eyeCount, double numberOfLegs, double amountOfHair, int armCount, int noseCount, boolean hasBellyButton)
 	{
 		this.setName(name);
